@@ -1,0 +1,7 @@
+{
+  "name": "bugapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
